@@ -2,7 +2,6 @@
 Portfolio project using data from WHO
 
 Goals:
-* Complete project to add to portfolio
 * Use seaborn and Matplotlib to create visualizations
 * Become familiar with presenting and sharing data visualizations
 * Preprocess, explore, and analyze data
