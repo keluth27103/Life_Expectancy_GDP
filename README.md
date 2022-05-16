@@ -1,5 +1,5 @@
 # Life_Expectancy_GDP
-Portfolio project using data from WHO
+This project uses data from the WHO to visualize and anaylyze relationships between GDP and life expectancy for 6 different countries
 
 Goals:
 * Use seaborn and Matplotlib to create visualizations
